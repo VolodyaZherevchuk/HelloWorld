@@ -6,7 +6,7 @@ public class HelloWorld {
         int globalAnswer = 42;
         int randomAnswer;
         randomAnswer = 700;
-        long longerThanLife = 223372036869;
+        long longerThanLife = 223372036869L;
 
         //Example output
         System.out.println("happyValue = " + happyValue);
